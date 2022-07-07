@@ -1,0 +1,22 @@
+{
+    "name": "i7ggt",
+    "version": "1.0.0",
+    "description": "A tiny little drawing app (editor)",
+    "author": "@steveruizok",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/Amaan4444/i7ggt.git"
+    },
+    "license": "MIT",
+    "keywords": [
+      "react",
+      "canvas",
+      "zoom",
+      "drawing",
+      "whiteboard"
+    ]
+  
+ 
+  
+  }
+  
