@@ -1,0 +1,25 @@
+{
+  "version": "1.7.0",
+  "name": "@tldraw/vec",
+  "description": "2D vector utilities for TLDraw and maybe you, too.",
+  "author": "@steveruizok",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tldraw/tldraw.git"
+  },
+  "license": "MIT",
+  "keywords": [
+    "2d",
+    "vector",
+    "typescript",
+    "javascript"
+  ],
+  "files": [
+    "dist/**/*"
+  ],
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "source": "./src/index.ts"
+
+}

@@ -1,0 +1,1 @@
+{"version":3,"file":"useShapeEvents.d.ts","sourceRoot":"","sources":["../../src/hooks/useShapeEvents.tsx"],"names":[],"mappings":"AAAA,OAAO,KAAK,KAAK,MAAM,OAAO,CAAA;AAI9B,wBAAgB,cAAc,CAAC,EAAE,EAAE,MAAM;uBAKhB,KAAK,CAAC,YAAY;qBA2BpB,KAAK,CAAC,YAAY;uBAiBhB,KAAK,CAAC,YAAY;wBAWjB,KAAK,CAAC,YAAY;wBAKlB,KAAK,CAAC,YAAY;EAQ3C"}

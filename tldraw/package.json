@@ -1,0 +1,26 @@
+{
+  "name": "@tldraw/tldraw",
+  "version": "1.16.0",
+  "description": "A tiny little drawing app (editor)",
+  "author": "@steveruizok",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tldraw/tldraw.git"
+  },
+  "license": "MIT",
+  "keywords": [
+    "react",
+    "canvas",
+    "zoom",
+    "drawing",
+    "whiteboard"
+  ],
+  "files": [
+    "dist/**/*"
+  ],
+  "main": "./dist/index.js",
+  "module": "./dist/main.js",
+  "types": "./dist/index.d.ts",
+  "source": "./src/index.ts"
+
+}

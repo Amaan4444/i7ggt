@@ -1,0 +1,1 @@
+{"version":3,"file":"Brush.d.ts","sourceRoot":"","sources":["../../../src/components/Brush/Brush.tsx"],"names":[],"mappings":";AAGA,OAAO,KAAK,EAAE,QAAQ,EAAE,MAAM,QAAQ,CAAA;AAItC,eAAO,MAAM,KAAK;WACT,QAAQ;UACT,MAAM;YACJ,OAAO,GAAG,IAAI,GAAG,SAAS;EAqClC,CAAA"}
